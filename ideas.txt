@@ -1,3 +1,4 @@
-#Write Ideas for final project with your name next to it:
+#Write Ideas for final project with your name next to it and a brief description:
 
-
+              *Secure trasnfer data between two openmrs - Kevin Reinoso  
+The Idea is that one instance of openmrs can communicate differet types of information, through secure layers. the reciever should previously accept the transfer of communication. when the transfer of information finish it, the reciever module should be able to update the information, or append it if need it, to the correct database. This type of module will make easy the communication between different users of openmrs like labs, pharmacys, primary cares, etc.
