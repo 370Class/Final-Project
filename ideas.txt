@@ -2,3 +2,7 @@
 
               *Secure trasnfer data between two openmrs - Kevin Reinoso  
 The Idea is that one instance of openmrs can communicate differet types of information, through secure layers. the reciever should previously accept the transfer of communication. when the transfer of information finish it, the reciever module should be able to update the information, or append it if need it, to the correct database. This type of module will make easy the communication between different users of openmrs like labs, pharmacys, primary cares, etc.
+
+
+  Encounter Form Templates- Avigdor Lalehzarzadeh
+  A module that will allow for templates to be made with pre filled information to make data entry easier. Examples of templates would be patient first visit. patient follow up, well exam, et cetera. The main idea is to allow for the user to make their own customizable templates to fit their needs, the examples mentioned were just some possible uses for this module. 
