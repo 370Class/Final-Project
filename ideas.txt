@@ -6,3 +6,6 @@ The Idea is that one instance of openmrs can communicate differet types of infor
 
   Encounter Form Templates- Avigdor Lalehzarzadeh
   A module that will allow for templates to be made with pre filled information to make data entry easier. Examples of templates would be patient first visit. patient follow up, well exam, et cetera. The main idea is to allow for the user to make their own customizable templates to fit their needs, the examples mentioned were just some possible uses for this module. 
+
+      Automatic message to patients - Fortune
+	If a patient agreed on receiving messages from the medical office he or she visited, then whenever lab results, next appointment times or any information that needs to be delivered to the patient is efficiently sent to specified phone number, e-mail or home address of that patient. The key idea is that when new information appears about the patient, the most important parts of it are inputted into specific templates, such as, appointment schedule, lab result and notice templates, along with contact information of doctors or lab professionals associated with the patient. These templates are then translated into voicemail, SMS, e-mail or physical letter by a secretary of an office. Of course, information sent via e-mail can be done completely automatically, without any assistance from medical secretary. 
