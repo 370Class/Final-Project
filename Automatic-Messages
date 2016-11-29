@@ -1,1 +1,15 @@
 *Write ideas about how the automatization will work for OpenMRS users(doctors, labs, pharmacy), write your name next to it.
+
+MIRIAM ABRAMOVITZ
+Last Tuesday, Professor made it sound like sending automated messages via text message would be really complicate. I haven't fully explored it yet, but there appears to be an existing module for sending messages:
+
+https://wiki.openmrs.org/plugins/servlet/mobile#content/view/4128774
+
+To send an SMS message, use the following code:
+Context.getService(MessagingService.class).sendMessage("Hello, world!", "+18007654321", SMSProtocol.class);
+This sends the message "Hello, world!" to the number 18007654321 via SMS. If the supplied phone number or message are badly formatted, an exception will be thrown.
+
+Messages can be sent to patients from an android device, as described here:
+https://wiki.openmrs.org/plugins/servlet/mobile#content/view/51413125
+
+Also, we could just use email. That would allow messages to be sent without needing a carrier.
