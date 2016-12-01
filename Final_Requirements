@@ -1,0 +1,29 @@
+		Automatic Reminder (SMS)
+Overview: 
+	Whenever a patient's appointment date approaches, or his/her lab results are ready, 
+  or a medication is ready to be picked up, then an automatic message (SMS) is sent
+  to that patient with spesific information regarding the issue. 
+------------------------------------------------------------------------------------------
+Dependencies: 
+	Pharmacy Module - medication pick-up
+	Lab Module -	lab results
+	Patient Chart Module - appointment
+------------------------------------------------------------------------------------------
+Actors:
+	none - system
+------------------------------------------------------------------------------------------
+Specifications:
+Reminder times:
+	Appointment:
+		2 days before appointment
+		if (current_date == appointmnet - 2days)
+			sendAppointmenrReminder();
+	Lab Result:
+		immediate
+	Pharmacy:
+		immediate
+------------------------------------------------------------------------------------------
+Assumptions:
+	- any patient has a phone number
+	- if the patient is child or one that does not have a phone number,
+          message is sent to his/her relative's phone number (parent, guardian)
