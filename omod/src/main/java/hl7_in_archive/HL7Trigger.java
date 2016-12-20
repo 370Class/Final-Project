@@ -13,7 +13,7 @@ import org.hibernate.cfg.Configuration;
 public class HL7Trigger {
 
   
-   public void Readmysql(){
+   public void Readmysql() throws Exception{
       Configuration cfg = new Configuration();
       cfg.configure("Spring.xml");
       SessionFactory sf = cfg.buildSessionFactory();
@@ -21,7 +21,7 @@ public class HL7Trigger {
       Session ph = sf.openSession();
      long i = 0;
     
-     String o = "OBR|";
+     String o = "OBX|";
      String p = "PID|";
       while(s.load(Hl7_in_archive.class, i) != null){
          if(i==Hl7_in_archive.getCount()){
@@ -39,8 +39,8 @@ public class HL7Trigger {
                   long j = 0;
                   while(ph.load(Patient_phone.class, j) != null){
                      Patient_phone phone = (Patient_phone) ph.load(Patient_phone.class, j);
-                     if (pid3 == phone.getPatient_id()){
-                        sendsms(phone.getPhone_number(), "US");
+                     if (pid3 == phone.getPatient_id() && phone.isReceive_notifications() == true){
+                        sendsms sms = new sendsms(phone.getPhone_number(), "US");
                         ph.close();
                         break;
                      }

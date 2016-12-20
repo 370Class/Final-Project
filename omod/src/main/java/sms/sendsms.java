@@ -78,7 +78,7 @@ public class sendsms
 	}
 	public static void main(String args[]) throws Exception
 	{
-		sendsms ne=new sendsms("9999999999","US");
+		sendsms ne=new sendsms("5164721348","US");
 	}
 
 }
