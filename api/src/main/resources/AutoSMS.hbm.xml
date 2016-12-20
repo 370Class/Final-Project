@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+
+<hibernate-mapping package="org.openmrs.module.AutomatedSms">
+
+<class name="AutoSMS" table="patient_phone">
+	<id name="patient_id" type="int" column="patient_id" unsaved-value="0">
+		<generator class="native" />
+	</id>
+	<discriminator column="id" insert="false" />
+	<property name="phone_provider_name" type="java.lang.String" column="phone_provider_name" length="255" />
+	<property name="phone_number" type="int" column="phone_number" length="1" />
+	<property name="receive_notifications" type="int" column="receive_notifications" length="1" />
+</class>
+
+<class name="AutoSMS" table="emailNpass">
+	<id name="id" type="int" column="id" unsaved-value="0">
+		<generator class="native" />
+	</id>
+	<discriminator column="id" insert="false" />
+	<property name="email_name" type="java.lang.String" column="email_name"
+		length="255" />
+	<property name="password" type="int" column="password" length="10" />
+</class>
+
+</hibernate-mapping>
