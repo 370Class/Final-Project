@@ -1,0 +1,21 @@
+12/15/16 Meeting Notes 2
+ +
+ +-Download Mavin add as a global variable to eclipse. google how to do it
+ +
+ +-Download Spring frame work (and Hibernate - part of Spring) - needed for mysql database manipulation
+ +
+ +-Kevin to upload basic skeleton of program  we will each clone our own version and when we add new features to the clone push it in to masterbranch
+ +
+ +-Kevin to send link for Scrum program
+ +
+ +=================================================
+ +To be completed by 4:30pm Sunday meeting
+ +==============================================
+ +
+ +-Kevin to build SMS functionality needed to send text message once trigger has been activated
+ +
+ +-Avi to figure out how Hl7 imported and create trigger upon HL7 import
+ +
+ +-Fortune to create SQl differ to create and update tables for the new module that we will be creating
+ +
+ +-Miriam to create HTML ans JSP files to create UI 
