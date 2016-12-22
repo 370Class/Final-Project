@@ -1,0 +1,6 @@
+org/openmrs/module/AutomatedSms/api/db/hibernate/HibernateAutoSMSDAO.class
+org/openmrs/module/AutomatedSms/api/impl/AutoSMSServiceImpl.class
+org/openmrs/module/AutomatedSms/api/db/AutoSMSDAO.class
+org/openmrs/module/AutomatedSms/AutoSMS.class
+org/openmrs/module/AutomatedSms/api/AutoSMSService.class
+org/openmrs/module/AutomatedSms/AutoSMSActivator.class

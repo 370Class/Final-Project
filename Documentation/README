@@ -1,0 +1,15 @@
+DatabaseSchema - SQL (create necessary tables)
+               - schema (diagram schema of this module)
+HonorStatement - honor statements from each team member
+Reflection - reflection statements from each team memeber
+Scrum - roles of each team member
+      - sprints
+      - burn down charts
+TestFiles - Testing (patient sample input)
+          - TestingResults (confirmation of the execution of module)
+DeploymentGuide - JDK version, third party libaries
+ExternalLibraries - libraries required for an Eclipse project that should live inside the project folder
+How_To_Manual - system requirement, installation, and configuration of openMRS
+Limitations - limitation of the moduleat the time of the delivery
+TestPlan - description of test plan for the module
+UserManual - manual for users to know how to interact with the software system if the UI/UX is not obvious

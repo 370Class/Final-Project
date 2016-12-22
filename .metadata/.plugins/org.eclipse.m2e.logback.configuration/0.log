@@ -1,0 +1,314 @@
+2016-12-16 18:02:21,952 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.openmrs.module:AutomatedSms-api:1.0-SNAPSHOT @ /Users/kr3110/Desktop/Skeleton/AutomatedSms/api/pom.xml.
+2016-12-16 18:02:22,462 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/api/openmrs-api/1.8.2/openmrs-api-1.8.2.pom
+2016-12-16 18:02:22,536 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/api/openmrs-api/1.8.2/openmrs-api-1.8.2.pom
+2016-12-16 18:02:22,977 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/openmrs/1.8.2/openmrs-1.8.2.pom
+2016-12-16 18:02:23,094 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/openmrs/1.8.2/openmrs-1.8.2.pom
+2016-12-16 18:02:23,183 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.pom
+2016-12-16 18:02:23,712 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.pom
+2016-12-16 18:02:23,795 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.pom
+2016-12-16 18:02:23,875 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.pom
+2016-12-16 18:02:23,955 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.pom
+2016-12-16 18:02:24,035 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.pom
+2016-12-16 18:02:24,112 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.pom
+2016-12-16 18:02:24,190 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.pom
+2016-12-16 18:02:24,271 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.pom
+2016-12-16 18:02:24,349 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.pom
+2016-12-16 18:02:24,429 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.pom
+2016-12-16 18:02:24,517 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.pom
+2016-12-16 18:02:24,598 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.pom
+2016-12-16 18:02:24,677 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.pom
+2016-12-16 18:02:24,759 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.pom
+2016-12-16 18:02:24,839 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.pom
+2016-12-16 18:02:24,918 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.pom
+2016-12-16 18:02:25,000 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.pom
+2016-12-16 18:02:25,086 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-orm/3.0.5.RELEASE/spring-orm-3.0.5.RELEASE.pom
+2016-12-16 18:02:25,165 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/3.0.5.RELEASE/spring-orm-3.0.5.RELEASE.pom
+2016-12-16 18:02:25,250 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/3.0.5.RELEASE/spring-orm-3.0.5.RELEASE.pom
+2016-12-16 18:02:25,325 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-jdbc/3.0.5.RELEASE/spring-jdbc-3.0.5.RELEASE.pom
+2016-12-16 18:02:25,405 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.0.5.RELEASE/spring-jdbc-3.0.5.RELEASE.pom
+2016-12-16 18:02:25,485 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.0.5.RELEASE/spring-jdbc-3.0.5.RELEASE.pom
+2016-12-16 18:02:25,562 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-tx/3.0.5.RELEASE/spring-tx-3.0.5.RELEASE.pom
+2016-12-16 18:02:25,641 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.0.5.RELEASE/spring-tx-3.0.5.RELEASE.pom
+2016-12-16 18:02:25,722 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.0.5.RELEASE/spring-tx-3.0.5.RELEASE.pom
+2016-12-16 18:02:25,800 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/antlr/antlr-runtime/3.2/antlr-runtime-3.2.pom
+2016-12-16 18:02:25,879 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.2/antlr-runtime-3.2.pom
+2016-12-16 18:02:25,972 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.2/antlr-runtime-3.2.pom
+2016-12-16 18:02:26,047 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/antlr/antlr-master/3.2/antlr-master-3.2.pom
+2016-12-16 18:02:26,126 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr-master/3.2/antlr-master-3.2.pom
+2016-12-16 18:02:26,219 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr-master/3.2/antlr-master-3.2.pom
+2016-12-16 18:02:26,295 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/antlr/stringtemplate/3.2/stringtemplate-3.2.pom
+2016-12-16 18:02:26,374 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/stringtemplate/3.2/stringtemplate-3.2.pom
+2016-12-16 18:02:26,454 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/stringtemplate/3.2/stringtemplate-3.2.pom
+2016-12-16 18:02:26,546 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/ca/uhn/hapi/hapi/0.5/hapi-0.5.pom
+2016-12-16 18:02:26,588 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/ca/uhn/hapi/hapi/0.5/hapi-0.5.pom
+2016-12-16 18:02:26,809 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/hibernate/hibernate/3.2.5.ga-mod/hibernate-3.2.5.ga-mod.pom
+2016-12-16 18:02:26,866 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/hibernate/hibernate/3.2.5.ga-mod/hibernate-3.2.5.ga-mod.pom
+2016-12-16 18:02:26,995 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/javax/transaction/jta/1.0.1B/jta-1.0.1B.pom
+2016-12-16 18:02:27,078 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/javax/transaction/jta/1.0.1B/jta-1.0.1B.pom
+2016-12-16 18:02:27,121 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/antlr/antlr/2.7.6/antlr-2.7.6.pom
+2016-12-16 18:02:27,197 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/antlr/antlr/2.7.6/antlr-2.7.6.pom
+2016-12-16 18:02:27,277 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/antlr/antlr/2.7.6/antlr-2.7.6.pom
+2016-12-16 18:02:27,355 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/commons-collections/commons-collections/2.1.1/commons-collections-2.1.1.pom
+2016-12-16 18:02:27,431 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/2.1.1/commons-collections-2.1.1.pom
+2016-12-16 18:02:27,511 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/2.1.1/commons-collections-2.1.1.pom
+2016-12-16 18:02:28,592 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/c3p0/c3p0/0.9.1/c3p0-0.9.1.pom
+2016-12-16 18:02:28,669 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/c3p0/c3p0/0.9.1/c3p0-0.9.1.pom
+2016-12-16 18:02:28,752 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/c3p0/c3p0/0.9.1/c3p0-0.9.1.pom
+2016-12-16 18:02:28,830 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/net/sf/ehcache/ehcache-core/2.2.0/ehcache-core-2.2.0.pom
+2016-12-16 18:02:28,909 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.2.0/ehcache-core-2.2.0.pom
+2016-12-16 18:02:29,068 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.2.0/ehcache-core-2.2.0.pom
+2016-12-16 18:02:29,145 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/net/sf/ehcache/ehcache-parent/2.1/ehcache-parent-2.1.pom
+2016-12-16 18:02:29,222 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.1/ehcache-parent-2.1.pom
+2016-12-16 18:02:29,315 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.1/ehcache-parent-2.1.pom
+2016-12-16 18:02:29,394 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/slf4j/slf4j-api/1.5.11/slf4j-api-1.5.11.pom
+2016-12-16 18:02:29,470 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.11/slf4j-api-1.5.11.pom
+2016-12-16 18:02:29,548 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.11/slf4j-api-1.5.11.pom
+2016-12-16 18:02:29,623 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/slf4j/slf4j-parent/1.5.11/slf4j-parent-1.5.11.pom
+2016-12-16 18:02:29,700 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.11/slf4j-parent-1.5.11.pom
+2016-12-16 18:02:29,782 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.11/slf4j-parent-1.5.11.pom
+2016-12-16 18:02:29,880 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/slf4j/slf4j-log4j12/1.5.6/slf4j-log4j12-1.5.6.pom
+2016-12-16 18:02:29,956 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.5.6/slf4j-log4j12-1.5.6.pom
+2016-12-16 18:02:30,033 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.5.6/slf4j-log4j12-1.5.6.pom
+2016-12-16 18:02:30,111 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2016-12-16 18:02:30,189 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2016-12-16 18:02:30,273 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2016-12-16 18:02:30,348 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2016-12-16 18:02:30,425 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2016-12-16 18:02:30,510 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2016-12-16 18:02:30,719 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/liquibase/liquibase-core/1.9.4-mod/liquibase-core-1.9.4-mod.pom
+2016-12-16 18:02:30,766 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/liquibase/liquibase-core/1.9.4-mod/liquibase-core-1.9.4-mod.pom
+2016-12-16 18:02:30,812 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom
+2016-12-16 18:02:30,886 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom
+2016-12-16 18:02:30,963 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom
+2016-12-16 18:02:31,037 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/xml-resolver/xml-resolver/1.1/xml-resolver-1.1.pom
+2016-12-16 18:02:31,115 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-resolver/xml-resolver/1.1/xml-resolver-1.1.pom
+2016-12-16 18:02:31,192 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-resolver/xml-resolver/1.1/xml-resolver-1.1.pom
+2016-12-16 18:02:31,268 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-oxm/3.0.5.RELEASE/spring-oxm-3.0.5.RELEASE.pom
+2016-12-16 18:02:31,346 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/3.0.5.RELEASE/spring-oxm-3.0.5.RELEASE.pom
+2016-12-16 18:02:31,424 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/3.0.5.RELEASE/spring-oxm-3.0.5.RELEASE.pom
+2016-12-16 18:02:31,580 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/web/openmrs-web/1.8.2/openmrs-web-1.8.2.pom
+2016-12-16 18:02:31,634 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/web/openmrs-web/1.8.2/openmrs-web-1.8.2.pom
+2016-12-16 18:02:31,681 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom
+2016-12-16 18:02:31,757 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom
+2016-12-16 18:02:31,833 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom
+2016-12-16 18:02:31,920 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/directwebremoting/dwr/2.0.5-mod/dwr-2.0.5-mod.pom
+2016-12-16 18:02:31,962 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/directwebremoting/dwr/2.0.5-mod/dwr-2.0.5-mod.pom
+2016-12-16 18:02:32,011 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/net/sf/saxon/saxon/8.7/saxon-8.7.pom
+2016-12-16 18:02:32,087 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/saxon/saxon/8.7/saxon-8.7.pom
+2016-12-16 18:02:32,165 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/saxon/saxon/8.7/saxon-8.7.pom
+2016-12-16 18:02:32,243 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/net/sf/saxon/saxon-dom/8.7/saxon-dom-8.7.pom
+2016-12-16 18:02:32,320 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/saxon/saxon-dom/8.7/saxon-dom-8.7.pom
+2016-12-16 18:02:32,398 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/saxon/saxon-dom/8.7/saxon-dom-8.7.pom
+2016-12-16 18:02:32,474 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.pom
+2016-12-16 18:02:32,551 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.pom
+2016-12-16 18:02:32,630 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.pom
+2016-12-16 18:02:32,707 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.pom
+2016-12-16 18:02:32,785 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.pom
+2016-12-16 18:02:32,867 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.pom
+2016-12-16 18:02:32,966 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.pom
+2016-12-16 18:02:33,048 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.pom
+2016-12-16 18:02:33,126 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.pom
+2016-12-16 18:02:33,218 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/mysql/mysql-connector-java/5.1.8/mysql-connector-java-5.1.8.pom
+2016-12-16 18:02:33,294 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.8/mysql-connector-java-5.1.8.pom
+2016-12-16 18:02:33,372 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.8/mysql-connector-java-5.1.8.pom
+2016-12-16 18:02:33,456 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/codehaus/jackson/jackson-core-asl/1.5.0/jackson-core-asl-1.5.0.pom
+2016-12-16 18:02:33,532 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.5.0/jackson-core-asl-1.5.0.pom
+2016-12-16 18:02:33,609 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.5.0/jackson-core-asl-1.5.0.pom
+2016-12-16 18:02:33,683 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/codehaus/jackson/jackson-mapper-asl/1.5.0/jackson-mapper-asl-1.5.0.pom
+2016-12-16 18:02:33,760 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.5.0/jackson-mapper-asl-1.5.0.pom
+2016-12-16 18:02:33,838 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.5.0/jackson-mapper-asl-1.5.0.pom
+2016-12-16 18:02:34,163 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/test/openmrs-test/1.8.2/openmrs-test-1.8.2.pom
+2016-12-16 18:02:34,249 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/test/openmrs-test/1.8.2/openmrs-test-1.8.2.pom
+2016-12-16 18:02:34,294 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-test/3.0.5.RELEASE/spring-test-3.0.5.RELEASE.pom
+2016-12-16 18:02:34,369 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/3.0.5.RELEASE/spring-test-3.0.5.RELEASE.pom
+2016-12-16 18:02:34,448 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/3.0.5.RELEASE/spring-test-3.0.5.RELEASE.pom
+2016-12-16 18:02:34,523 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/junit/junit/4.8.1/junit-4.8.1.pom
+2016-12-16 18:02:34,602 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.pom
+2016-12-16 18:02:34,684 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.pom
+2016-12-16 18:02:34,768 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/commons-logging/commons-logging/1.1/commons-logging-1.1.pom
+2016-12-16 18:02:34,845 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1/commons-logging-1.1.pom
+2016-12-16 18:02:34,924 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1/commons-logging-1.1.pom
+2016-12-16 18:02:35,002 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/logkit/logkit/1.0.1/logkit-1.0.1.pom
+2016-12-16 18:02:35,077 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/logkit/logkit/1.0.1/logkit-1.0.1.pom
+2016-12-16 18:02:35,155 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/logkit/logkit/1.0.1/logkit-1.0.1.pom
+2016-12-16 18:02:35,239 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.pom
+2016-12-16 18:02:35,315 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.pom
+2016-12-16 18:02:35,393 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.pom
+2016-12-16 18:02:35,503 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom
+2016-12-16 18:02:35,596 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom
+2016-12-16 18:02:35,673 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom
+2016-12-16 18:02:35,756 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2016-12-16 18:02:35,842 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2016-12-16 18:02:35,922 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2016-12-16 18:02:36,003 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/com/h2database/h2/1.2.135/h2-1.2.135.pom
+2016-12-16 18:02:36,080 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.2.135/h2-1.2.135.pom
+2016-12-16 18:02:36,235 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.2.135/h2-1.2.135.pom
+2016-12-16 18:02:36,456 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/api/openmrs-api/1.8.2/openmrs-api-1.8.2.jar
+2016-12-16 18:02:39,557 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/api/openmrs-api/1.8.2/openmrs-api-1.8.2.jar
+2016-12-16 18:02:39,597 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/commons-collections/commons-collections/3.2/commons-collections-3.2.jar
+2016-12-16 18:02:39,671 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.jar
+2016-12-16 18:02:39,743 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.jar
+2016-12-16 18:02:39,815 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar
+2016-12-16 18:02:39,888 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.jar
+2016-12-16 18:02:39,962 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.jar
+2016-12-16 18:02:40,034 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.jar
+2016-12-16 18:02:40,108 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-orm/3.0.5.RELEASE/spring-orm-3.0.5.RELEASE.jar
+2016-12-16 18:02:40,180 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-tx/3.0.5.RELEASE/spring-tx-3.0.5.RELEASE.jar
+2016-12-16 18:02:40,251 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-jdbc/3.0.5.RELEASE/spring-jdbc-3.0.5.RELEASE.jar
+2016-12-16 18:02:40,322 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/antlr/antlr-runtime/3.2/antlr-runtime-3.2.jar
+2016-12-16 18:02:40,394 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/antlr/stringtemplate/3.2/stringtemplate-3.2.jar
+2016-12-16 18:02:40,482 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/ca/uhn/hapi/hapi/0.5/hapi-0.5.jar
+2016-12-16 18:02:45,680 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/ca/uhn/hapi/hapi/0.5/hapi-0.5.jar
+2016-12-16 18:02:45,753 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/hibernate/hibernate/3.2.5.ga-mod/hibernate-3.2.5.ga-mod.jar
+2016-12-16 18:02:46,650 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/hibernate/hibernate/3.2.5.ga-mod/hibernate-3.2.5.ga-mod.jar
+2016-12-16 18:02:46,737 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/javax/transaction/jta/1.0.1B/jta-1.0.1B.jar
+2016-12-16 18:02:46,806 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/javax/transaction/jta/1.0.1B/jta-1.0.1B.jar
+2016-12-16 18:02:46,844 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/antlr/antlr/2.7.6/antlr-2.7.6.jar
+2016-12-16 18:02:46,916 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/c3p0/c3p0/0.9.1/c3p0-0.9.1.jar
+2016-12-16 18:02:46,987 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/net/sf/ehcache/ehcache-core/2.2.0/ehcache-core-2.2.0.jar
+2016-12-16 18:02:47,059 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar
+2016-12-16 18:02:47,130 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar
+2016-12-16 18:02:47,202 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/slf4j/slf4j-log4j12/1.5.6/slf4j-log4j12-1.5.6.jar
+2016-12-16 18:02:47,273 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2016-12-16 18:02:47,371 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/liquibase/liquibase-core/1.9.4-mod/liquibase-core-1.9.4-mod.jar
+2016-12-16 18:02:49,072 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/liquibase/liquibase-core/1.9.4-mod/liquibase-core-1.9.4-mod.jar
+2016-12-16 18:02:49,113 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar
+2016-12-16 18:02:49,192 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/xml-resolver/xml-resolver/1.1/xml-resolver-1.1.jar
+2016-12-16 18:02:49,264 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-oxm/3.0.5.RELEASE/spring-oxm-3.0.5.RELEASE.jar
+2016-12-16 18:02:49,405 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/web/openmrs-web/1.8.2/openmrs-web-1.8.2.jar
+2016-12-16 18:02:51,216 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/web/openmrs-web/1.8.2/openmrs-web-1.8.2.jar
+2016-12-16 18:02:51,255 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+2016-12-16 18:02:51,347 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/directwebremoting/dwr/2.0.5-mod/dwr-2.0.5-mod.jar
+2016-12-16 18:02:52,793 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/directwebremoting/dwr/2.0.5-mod/dwr-2.0.5-mod.jar
+2016-12-16 18:02:52,833 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/net/sf/saxon/saxon/8.7/saxon-8.7.jar
+2016-12-16 18:02:52,905 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/net/sf/saxon/saxon-dom/8.7/saxon-dom-8.7.jar
+2016-12-16 18:02:52,976 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar
+2016-12-16 18:02:53,049 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar
+2016-12-16 18:02:53,124 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.jar
+2016-12-16 18:02:53,197 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/mysql/mysql-connector-java/5.1.8/mysql-connector-java-5.1.8.jar
+2016-12-16 18:02:53,269 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/codehaus/jackson/jackson-core-asl/1.5.0/jackson-core-asl-1.5.0.jar
+2016-12-16 18:02:53,341 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/codehaus/jackson/jackson-mapper-asl/1.5.0/jackson-mapper-asl-1.5.0.jar
+2016-12-16 18:02:53,493 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/api/openmrs-api/1.8.2/openmrs-api-1.8.2-tests.jar
+2016-12-16 18:02:56,885 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/api/openmrs-api/1.8.2/openmrs-api-1.8.2-tests.jar
+2016-12-16 18:02:57,054 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/web/openmrs-web/1.8.2/openmrs-web-1.8.2-tests.jar
+2016-12-16 18:02:57,117 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/openmrs/web/openmrs-web/1.8.2/openmrs-web-1.8.2-tests.jar
+2016-12-16 18:02:57,160 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/springframework/spring-test/3.0.5.RELEASE/spring-test-3.0.5.RELEASE.jar
+2016-12-16 18:02:57,255 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/junit/junit/4.8.1/junit-4.8.1.jar
+2016-12-16 18:02:57,355 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/org/apache/poi/poi/3.5-beta5/poi-3.5-beta5.jar
+2016-12-16 18:02:57,443 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/commons-logging/commons-logging/1.1/commons-logging-1.1.jar
+2016-12-16 18:02:57,532 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/logkit/logkit/1.0.1/logkit-1.0.1.jar
+2016-12-16 18:02:57,608 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.jar
+2016-12-16 18:02:57,681 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/postgresql/postgresql/8.3-603.jdbc4/postgresql-8.3-603.jdbc4.jar
+2016-12-16 18:02:57,774 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://mavenrepo.openmrs.org/nexus/content/repositories/public/com/h2database/h2/1.2.135/h2-1.2.135.jar
+2016-12-16 18:02:58,030 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.jar
+2016-12-16 18:02:58,779 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.jar
+2016-12-16 18:02:58,885 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.jar
+2016-12-16 18:02:59,404 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.jar
+2016-12-16 18:02:59,494 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.jar
+2016-12-16 18:02:59,667 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.jar
+2016-12-16 18:02:59,787 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar
+2016-12-16 18:03:00,583 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar
+2016-12-16 18:03:00,686 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.jar
+2016-12-16 18:03:01,752 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.jar
+2016-12-16 18:03:01,860 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.jar
+2016-12-16 18:03:02,116 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.jar
+2016-12-16 18:03:02,200 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.jar
+2016-12-16 18:03:02,599 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.jar
+2016-12-16 18:03:02,695 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/3.0.5.RELEASE/spring-orm-3.0.5.RELEASE.jar
+2016-12-16 18:03:03,129 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/3.0.5.RELEASE/spring-orm-3.0.5.RELEASE.jar
+2016-12-16 18:03:03,228 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.0.5.RELEASE/spring-tx-3.0.5.RELEASE.jar
+2016-12-16 18:03:03,567 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.0.5.RELEASE/spring-tx-3.0.5.RELEASE.jar
+2016-12-16 18:03:03,663 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.0.5.RELEASE/spring-jdbc-3.0.5.RELEASE.jar
+2016-12-16 18:03:04,155 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.0.5.RELEASE/spring-jdbc-3.0.5.RELEASE.jar
+2016-12-16 18:03:04,254 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.2/antlr-runtime-3.2.jar
+2016-12-16 18:03:04,507 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.2/antlr-runtime-3.2.jar
+2016-12-16 18:03:04,595 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/stringtemplate/3.2/stringtemplate-3.2.jar
+2016-12-16 18:03:05,113 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/stringtemplate/3.2/stringtemplate-3.2.jar
+2016-12-16 18:03:05,264 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/antlr/antlr/2.7.6/antlr-2.7.6.jar
+2016-12-16 18:03:05,998 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/antlr/antlr/2.7.6/antlr-2.7.6.jar
+2016-12-16 18:03:06,122 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/c3p0/c3p0/0.9.1/c3p0-0.9.1.jar
+2016-12-16 18:03:06,931 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/c3p0/c3p0/0.9.1/c3p0-0.9.1.jar
+2016-12-16 18:03:07,098 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.2.0/ehcache-core-2.2.0.jar
+2016-12-16 18:03:07,902 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.2.0/ehcache-core-2.2.0.jar
+2016-12-16 18:03:07,978 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar
+2016-12-16 18:03:08,106 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar
+2016-12-16 18:03:08,200 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar
+2016-12-16 18:03:08,296 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar
+2016-12-16 18:03:08,388 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.5.6/slf4j-log4j12-1.5.6.jar
+2016-12-16 18:03:08,472 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.5.6/slf4j-log4j12-1.5.6.jar
+2016-12-16 18:03:08,589 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2016-12-16 18:03:09,140 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2016-12-16 18:03:09,242 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar
+2016-12-16 18:03:09,689 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar
+2016-12-16 18:03:09,813 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-resolver/xml-resolver/1.1/xml-resolver-1.1.jar
+2016-12-16 18:03:09,976 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-resolver/xml-resolver/1.1/xml-resolver-1.1.jar
+2016-12-16 18:03:10,109 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/3.0.5.RELEASE/spring-oxm-3.0.5.RELEASE.jar
+2016-12-16 18:03:10,224 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/3.0.5.RELEASE/spring-oxm-3.0.5.RELEASE.jar
+2016-12-16 18:03:10,321 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+2016-12-16 18:03:10,511 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+2016-12-16 18:03:10,614 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/saxon/saxon/8.7/saxon-8.7.jar
+2016-12-16 18:03:14,380 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/saxon/saxon/8.7/saxon-8.7.jar
+2016-12-16 18:03:14,466 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/saxon/saxon-dom/8.7/saxon-dom-8.7.jar
+2016-12-16 18:03:14,569 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/saxon/saxon-dom/8.7/saxon-dom-8.7.jar
+2016-12-16 18:03:14,659 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar
+2016-12-16 18:03:15,149 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar
+2016-12-16 18:03:15,286 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar
+2016-12-16 18:03:15,746 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar
+2016-12-16 18:03:15,856 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.jar
+2016-12-16 18:03:16,036 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.jar
+2016-12-16 18:03:16,140 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.8/mysql-connector-java-5.1.8.jar
+2016-12-16 18:03:17,015 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.8/mysql-connector-java-5.1.8.jar
+2016-12-16 18:03:17,101 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.5.0/jackson-core-asl-1.5.0.jar
+2016-12-16 18:03:17,385 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.5.0/jackson-core-asl-1.5.0.jar
+2016-12-16 18:03:17,475 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.5.0/jackson-mapper-asl-1.5.0.jar
+2016-12-16 18:03:18,014 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.5.0/jackson-mapper-asl-1.5.0.jar
+2016-12-16 18:03:18,100 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/3.0.5.RELEASE/spring-test-3.0.5.RELEASE.jar
+2016-12-16 18:03:18,371 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/3.0.5.RELEASE/spring-test-3.0.5.RELEASE.jar
+2016-12-16 18:03:18,459 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.jar
+2016-12-16 18:03:18,707 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.jar
+2016-12-16 18:03:18,811 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.5-beta5/poi-3.5-beta5.jar
+2016-12-16 18:03:20,290 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.5-beta5/poi-3.5-beta5.jar
+2016-12-16 18:03:20,373 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1/commons-logging-1.1.jar
+2016-12-16 18:03:20,479 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1/commons-logging-1.1.jar
+2016-12-16 18:03:20,565 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/logkit/logkit/1.0.1/logkit-1.0.1.jar
+2016-12-16 18:03:20,683 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/logkit/logkit/1.0.1/logkit-1.0.1.jar
+2016-12-16 18:03:20,769 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.jar
+2016-12-16 18:03:20,880 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.jar
+2016-12-16 18:03:21,069 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/postgresql/postgresql/8.3-603.jdbc4/postgresql-8.3-603.jdbc4.jar
+2016-12-16 18:03:21,623 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/postgresql/postgresql/8.3-603.jdbc4/postgresql-8.3-603.jdbc4.jar
+2016-12-16 18:03:21,828 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.2.135/h2-1.2.135.jar
+2016-12-16 18:03:22,919 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.2.135/h2-1.2.135.jar
+2016-12-16 18:03:23,765 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.openmrs.module:AutomatedSms-omod:1.0-SNAPSHOT @ /Users/kr3110/Desktop/Skeleton/AutomatedSms/omod/pom.xml.
+2016-12-16 18:03:29,628 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/main/java
+2016-12-16 18:03:29,628 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api/src/main/resources
+2016-12-16 18:03:29,632 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/test/java
+2016-12-16 18:03:30,402 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /omod/src/main/java
+2016-12-16 18:03:30,402 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /omod/src/main/resources
+2016-12-16 18:03:30,415 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /omod/src/main/webapp
+2016-12-16 18:03:30,421 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /omod/src/main/webapp
+2016-12-16 18:03:30,423 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /omod/src/test/java
+2016-12-16 18:03:30,586 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 70 sec
+2016-12-16 18:03:31,421 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-16 18:03:31,429 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-12-16 18:03:31,470 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-16 18:03:31,471 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kr3110/Desktop/Skeleton/AutomatedSms/api/src/test/resources
+2016-12-16 18:03:31,737 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-16 18:03:31,738 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-12-16 18:03:31,772 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources to web/module
+2016-12-16 18:03:31,778 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to web/module
+2016-12-16 18:03:31,786 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-16 18:03:31,786 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kr3110/Desktop/Skeleton/AutomatedSms/omod/src/test/resources
+2016-12-16 18:08:52,053 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2016-12-16 18:09:38,458 [Worker-16] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project api already exists
+2016-12-16 18:09:38,484 [Worker-16] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project omod already exists
+2016-12-16 18:09:38,486 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 0 sec
+2016-12-17 23:07:40,935 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 23:07:40,944 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-12-17 23:07:40,984 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 23:07:40,984 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kr3110/Desktop/Skeleton/AutomatedSms/api/src/test/resources
+2016-12-17 23:07:42,723 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 23:07:42,724 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-12-17 23:07:42,752 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources to web/module
+2016-12-17 23:07:42,757 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to web/module
+2016-12-17 23:07:42,760 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 23:07:42,760 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kr3110/Desktop/Skeleton/AutomatedSms/omod/src/test/resources

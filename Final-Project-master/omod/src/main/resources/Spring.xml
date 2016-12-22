@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+<session-factory>
+<!-- connection to the database -->
+<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+<property name="hibernate.connection.url">jdbc:mysql://149.4.223.208:3304/openmrs</property>
+<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+<property name="hibernate.connection.username">root</property>
+<property name="hibernate.connection.password">kafrox!</property>
+<!-- autocommit false -->
+<property name="hibernate.connection.autocommit">false</property>
+<!-- to display sql query generated when running the program -->
+<property name="show_sql">true</property>
+<property name="format_sql">true</property>
+<property name="use_sql_comments">true</property>
+
+<!-- for jdbc transaction -->
+<!-- <property name="hibernate.transaction.factory.class">org.hibernate.transaction.JDBCTransactionFactory</property>  -->
+
+
+</session-factory>
+</hibernate-configuration>
+
+<hibernate-mapping>
+<class name="Hl7_in_archive" table="hl7_in_archive">
+<id name="hl7_in_archive_id" column="hl7_in_archive_id" type="integer">
+	<generator class="assigned"></generator>
+</id>
+<property name="hl7_source" column="hl7_source" type="integer"></property>
+<property name="hl7_source_key" column="hl7_source_key" type="string"></property>
+<property name="hl7_data" column="hl7_data" type="string"></property>
+<property name="date_created" column="date_created" type="string"></property>
+<property name="message_state" column="message_state" type="integer"></property>
+<property name="uuid" column="uuid" type="string"></property>
+</class>
+</hibernate-mapping>
+
+<!-- Mapping for patient phone number table  --> 
+
+<hibernate-mapping>
+<class name="Patient_phone" table="patient_phone">
+<id name="patient_id" column="patient_id" type="string">
+	<generator class="assigned"></generator>
+</id>
+<property name="phone_provider_name" column="phone_provider_name" type="string"></property>
+<property name="phone_number" column="phone_number" type="string"></property>
+<property name="receive_notifications" column="receive_notifications" type="binary"></property>
+
+</hibernate-mapping>

@@ -1,0 +1,9 @@
+Sprint over 14 days total:
+    Day 1 - brainstorm ideas for the openMRS module
+    Day 2 - pick autoSMS to be the module, create overview of requirements and specifications, assign roles to team members, start working
+    Day 3 - review what we have done so far: SMS class, openMRS database manipulation, UI, controllers, jsp's; modify necessary parts
+    Day 6 - review HL7 trigger, still needs more work 
+    Day 7 - learn how to receive HL7 report and how to parse the report, and why sms does not work when patients switch cariers
+    Day 10 - update all classes, jsp's and html's, compile everythng together, some probrlems arise; try to solve some of them
+    Day 12 - modify database; create jsp for UI
+    Day 14 - update controllers, SMS, HL7 trigger; final compilation 

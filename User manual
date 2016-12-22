@@ -1,0 +1,7 @@
+User Manual
+In the admin list, click on link for sms configuration.
+For each patient that would like to receive sms notifications, enter patient id and phone number and select enabled.
+When a lab sends results for a patient with sms messaging enabled, a text will be sent to the patient's phone notifying them that their results are ready.
+
+Requirements for using the module
+1.working/running openMRS instance

@@ -1,0 +1,5 @@
+1) Download and run Automated SMS Module
+2) Input patients into openMRS database, including their phone numbers (use your phone number for testing), phone providers, and whether or not they want to receive notifications
+3) Upload HL7 report to openMRS archive
+4) Wait for HL7_Trigger to process the report, where it gathers patient ID. After that, HL7_Trigger sends the gathered data to SMS_Sender
+5) SMS_Sender generated SMS message based on template and sends the notification to the patient mentioned above

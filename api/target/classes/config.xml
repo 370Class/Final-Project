@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<module configVersion="1.2">
+
+	<!-- Module Properties -->
+	<id>AutomatedSms</id>
+	<name>AutoSMS Module</name>
+	<version>1.0-SNAPSHOT</version>
+	<package>org.openmrs.module.AutomatedSms</package>
+	<author>Kamf</author>
+	<description>
+		Module to send nd sms when it recieves labs results thruought HL7
+	</description>
+	<updateURL>https://modules.openmrs.org/modules/download/AutomatedSms/update.rdf</updateURL>
+	<require_version>1.8.2</require_version>
+	<!-- / Module Properties -->
+
+	
+	<!-- Module Activator -->
+	<activator>org.openmrs.module.AutomatedSms.AutoSMSActivator</activator>
+	
+	
+	<!-- Adds link to admin page -->
+	<extension>
+		<point>org.openmrs.admin.list</point>
+		<class>org.openmrs.module.AutomatedSms.extension.html.AdminList</class>
+	</extension>
+	
+	<!-- Maps hibernate file's, if present -->
+	<mappingFiles>
+				
+
+		EmailNpass.hbm.xml
+		Hl7_in_archive.hbm.xml
+		Patient_identifier.hbm.xml
+		Patient_phone.hbm.xml
+		Person_name.hbm.xml
+				
+				
+	</mappingFiles>
+
+	<!-- Internationalization -->
+	<!-- All message codes should start with AutomatedSms. -->
+	<messages>
+		<lang>en</lang>
+		<file>messages.properties</file>
+	</messages>
+	<messages>
+		<lang>fr</lang>
+		<file>messages_fr.properties</file>
+	</messages>
+	<messages>
+		<lang>es</lang>
+		<file>messages_es.properties</file>
+	</messages>
+	<!-- /Internationalization -->
+
+</module>
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sqldiff PUBLIC "-//OpenMRS//DTD OpenMRS SQL Diff Config 1.0//EN" "http://resources.openmrs.org/doctype/sqldiff-1.0.dtd">
+
+<sqldiff version="1.0">
+	<help>
+		USE:
+			The diffs are ordered by data model version number.
+			The script can be run in a top down fashion and is
+			expected to not fail or overwrite old data
+		
+		EXPECT:
+			- "use business-database-name;" was called prior to
+			   calling this script
+	</help>
+	
+	<diff>
+		<version>1.0</version>
+		<author>Kamf</author>
+		<date></date>
+		<description>
+			patient_phone keeps phone numbers of patients;
+			primary key/foreign key - patient_id references person_name_id 
+				in already created openmrs table person_name
+			| patient_id | phone_provider_name | phone_number | receive_notifications |
+		</description>
+		<sql>
+			CREATE TABLE IF NOT EXISTS 'patient_phone' (
+				'patient_id' int(10) NOT NULL,
+				'phone_provider_name' varchar(255),
+				'phone_number' int(10),
+				'receive_notifications' int(1),
+				PRIMARY KEY ('patient_id'),
+				FOREIGN KEY ('patient_id') REFERENCES 'person_name' ('person_name_id')
+			) ENGINE=InnoDBDEFAULT CHARSET=utf8;
+		</sql>
+	</diff>
+
+	<diff>
+		<version>1.0</version>
+		<author>Kamf</author>
+		<date></date>
+		<description>
+			independent e-mail table that stores one row of data (id is primary key):
+				e-mail and password
+			| id | email_name | password |
+		</description>
+		<sql>
+			CREATE TABLE IF NOT EXISTS 'emailNpass' (
+				'id' int(5) NOT NULL,
+				'email_name' varchar(255),
+				'password' int(10),
+				PRIMARY KEY ('id')
+			) ENGINE=InnoDBDEFAULT CHARSET=utf8;
+		</sql>
+	</diff>
+	
+</sqldiff>

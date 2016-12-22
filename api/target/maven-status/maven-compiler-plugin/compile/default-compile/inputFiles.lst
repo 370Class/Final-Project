@@ -1,0 +1,6 @@
+/Users/kr3110/Downloads/Final-Project-avi-5/api/src/main/java/org/openmrs/module/AutomatedSms/AutoSMSActivator.java
+/Users/kr3110/Downloads/Final-Project-avi-5/api/src/main/java/org/openmrs/module/AutomatedSms/AutoSMS.java
+/Users/kr3110/Downloads/Final-Project-avi-5/api/src/main/java/org/openmrs/module/AutomatedSms/api/AutoSMSService.java
+/Users/kr3110/Downloads/Final-Project-avi-5/api/src/main/java/org/openmrs/module/AutomatedSms/api/impl/AutoSMSServiceImpl.java
+/Users/kr3110/Downloads/Final-Project-avi-5/api/src/main/java/org/openmrs/module/AutomatedSms/api/db/hibernate/HibernateAutoSMSDAO.java
+/Users/kr3110/Downloads/Final-Project-avi-5/api/src/main/java/org/openmrs/module/AutomatedSms/api/db/AutoSMSDAO.java

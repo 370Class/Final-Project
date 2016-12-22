@@ -1,0 +1,19 @@
+Create phone table for patients:
+
+create table if not exists 'patient_phone' (
+            'patient_id' int(10) NOT NULL,
+            'phone_provider_name' varchar(255),
+            'phone_number' int(10),
+            'receive_notifications' int(1),
+            PRIMARY KEY ('patient_id'),
+            FOREIGN KEY ('patient_id') REFERENCES 'person_identifier' ('patient_id')
+)
+        
+Create email table for sending sms to patients:
+
+create table if not exists 'emailNpass' (
+    'id' int(5) NOT NULL,
+    'email_name' varchar(255),
+    'password' int(10),
+    PRIMARY KEY ('id')
+)

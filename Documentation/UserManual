@@ -1,0 +1,7 @@
+Input email:
+      address - your email address, so you can send sms to patients
+      password - for yout email
+      
+      
+Input patient phone:
+      enter patient ID so you can add a phone number to the database, enable or disable sms notifications for that patient

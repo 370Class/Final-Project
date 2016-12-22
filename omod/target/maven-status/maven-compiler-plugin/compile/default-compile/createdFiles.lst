@@ -1,0 +1,10 @@
+hl7_in_archive/Patient_phone.class
+hl7_in_archive/Patient_identifier.class
+org/openmrs/module/AutomatedSms/web/controller/AutoSMSManageController.class
+sms/SendEmail.class
+hl7_in_archive/Person_name.class
+org/openmrs/module/AutomatedSms/extension/html/AdminList.class
+sms/sendsms.class
+hl7_in_archive/EmailNpass.class
+hl7_in_archive/HL7Trigger.class
+hl7_in_archive/Hl7_in_archive.class
