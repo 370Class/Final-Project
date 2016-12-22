@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+<class name="hl7_in_archive.Patient_phone" table="patient_phone">
+<id name="patient_id" column="patient_id" type="string">
+	<generator class="assigned"></generator>
+</id>
+<property name="phone_provider_name" column="phone_provider_name" type="string"></property>
+<property name="phone_number" column="phone_number" type="string"></property>
+<property name="receive_notifications" column="receive_notifications" type="binary"></property>
+</class>
+</hibernate-mapping>

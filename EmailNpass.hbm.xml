@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+<class name="hl7_in_archive.EmailNpass" table="emailNpass">
+<id name="id" column="id" type="int">
+	<generator class="assigned"></generator>
+</id>
+<property name="email_name" column="email_name" type="string"></property>
+<property name="password" column="password" type="string"></property>
+</class>
+</hibernate-mapping>
