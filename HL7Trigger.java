@@ -30,33 +30,31 @@ public class HL7Trigger {
             System.out.println("HL7 IN ARCHIVE TABLE READ " + i);
             Hl7_in_archive hl7 = (Hl7_in_archive) s.load(Hl7_in_archive.class, i);
             String message = hl7.getHl7_data();
-            if(message.contains(o)== true){
-               BufferedReader reader = new BufferedReader(new StringReader(message)); 
-               System.out.println("READ FILE" + reader);
-               try {
-                  while(reader.readLine()!=null){
-                     if(reader.toString().contains(p)== true) break;
-                     reader.readLine();
+            
+            if(message.contains(o)== true){ // Check if there is an OBX segment
+               
+               try {  
+                  String[] pid = message.split("\\|");
+                  String pid3 = null;
+                  for(int x = 0; x < pid.length; x++){
+                     if( pid[x].contains("PID")) pid3 = pid[x+3]; // Single out PID
                   }
-                  String[] pid = reader.toString().split("|");
-                  String pid3 = pid[3];
-                  for (int x =0; x<pid.length; x++){
-                  System.out.println("PID " + (x+1) + " " + pid[x]);
-                  }
+                  
+           
                   int q = 1;
                   while(pn.load(Patient_identifier.class, q) != null){
-                     System.out.println("PATIENT IDENTIFIER READ " + q);
+                     //System.out.println("PATIENT IDENTIFIER READ " + q);
                      Patient_identifier id = (Patient_identifier) pn.load(Patient_identifier.class, q);
-                     if (pid3 == id.getIdentifier()){
+                     if (pid3.equals(id.getIdentifier())){
                         int piid = id.getPatient_id();
                         int j = 1;
                         while(ph.load(Patient_phone.class, j) != null){
-                           System.out.println("PATIENT PHONE READ " + j);
+                       //    System.out.println("PATIENT PHONE READ " + j);
                            Patient_phone phone = (Patient_phone) ph.load(Patient_phone.class, j);
-                           if (piid == Integer.parseInt(phone.getPatient_id()) && phone.isReceive_notifications() == true){
-                              new sendsms(phone.getPhone_number(), "US");
+                           if (piid == (phone.getPatient_id()) && phone.isReceive_notifications() == true){
+                              new sendsms(phone.getPhone_number());
                               break;
-                           }
+                           } 
                            j++;
                         }
                         break;

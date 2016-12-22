@@ -21,15 +21,15 @@ public class Patient_phone {
     @Id
     @Column(name="patient_id")
     @GeneratedValue(strategy=GenerationType.IDENTITY)
-    private String patient_id;
+    private int patient_id;
     private String phone_provider_name;
     private String phone_number;
     private boolean receive_notifications;
     
-   public String getPatient_id() {
+   public int getPatient_id() {
       return patient_id;
    }
-   public void setPatient_id(String patient_id) {
+   public void setPatient_id(int patient_id) {
       this.patient_id = patient_id;
    }
    public String getPhone_provider_name() {
